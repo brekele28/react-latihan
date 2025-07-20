@@ -8,6 +8,7 @@ function App() {
       <h2>Perkenalkan Nama Saya: Rois Ali Fernandi</h2>
       <h4>Mahasiswa semester 6</h4>
       <h2>cobain ubah dulu</h2>
+      <h1>Jangan diubah-ubah ya...</h1>
     </>
   )
 }
